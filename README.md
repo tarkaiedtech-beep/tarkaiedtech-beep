@@ -5,9 +5,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Welcome+to+TarkAI+EdTech+Pvt.+Ltd.;Empowering+Students+with+AI+%26+Technology;Learn.+Build.+Innovate.;India's+Next+Generation+EdTech+Company" alt="Typing SVG" />
 
-[![AI Powered](https://img.shields.io/badge/AI%20Powered-Education-blueviolet?style=for-the-badge&logo=openai)](https://tarkai.com)
-[![Startup](https://img.shields.io/badge/Startup-TarkAI-orange?style=for-the-badge)](https://tarkai.com)
-[![Made with Love](https://img.shields.io/badge/Made%20with-%F0%9F%92%99%20in%20India-success?style=for-the-badge)](https://tarkai.com)
+[![AI Powered](https://img.shields.io/badge/AI%20Powered-Education-blueviolet?style=for-the-badge&logo=openai)](https://tarkaiedtech.com)
+[![Startup](https://img.shields.io/badge/Startup-TarkAI-orange?style=for-the-badge)](https://tarkaiedtech.com)
+[![Made with Love](https://img.shields.io/badge/Made%20with-%F0%9F%92%99%20in%20India-success?style=for-the-badge)](https://tarkaiedtech.com)
 
 <p align="center">
   <a href="#-about-tarkai">About Us</a> •
